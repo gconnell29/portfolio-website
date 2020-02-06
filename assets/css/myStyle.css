@@ -1,0 +1,11 @@
+#banner .logo {
+  border-radius: 14px;
+}
+
+.spotlight .image {
+  border-radius: initial!important;
+}
+
+.spotlight .image img {
+  border-radius: initial!important;
+}
